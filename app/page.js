@@ -98,6 +98,7 @@ export default function Home() {
     </main>
   )
 }
+
 export default function Home() {
   return (
     <main style={{ padding: 40 }}>
