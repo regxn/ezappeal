@@ -98,3 +98,11 @@ export default function Home() {
     </main>
   )
 }
+export default function Home() {
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>EZAPPEAL 🚀</h1>
+      <p>Web funcionando correctamente</p>
+    </main>
+  )
+}
